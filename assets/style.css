@@ -1,0 +1,16 @@
+#quadrado{
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+}
+#retangulo{
+    width: 300px;
+    height: 100px;
+    background-color: blue;
+}
+#circulo{
+     width: 100px;
+     height: 100px;
+     border-radius: 100px;
+     background-color: yellow;
+}
